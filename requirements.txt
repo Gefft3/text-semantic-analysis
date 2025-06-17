@@ -1,0 +1,6 @@
+tiktoken
+langchain_ollama
+langchain_core
+pydantic
+pandas
+tqdm
