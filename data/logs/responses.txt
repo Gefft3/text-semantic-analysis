@@ -1,0 +1,140 @@
+Nome: Vinícius Fontes de Andrade
+response:
+sentiment=1 most_relevant_phrase='O Ararabots me proporcionou experiências e melhorias em diversas áreas importantes para a construção da minha trajetória na graduação'
+-----------------------
+Nome: Lucas Santana Escobar 
+response:
+sentiment=0 most_relevant_phrase='Principalmente no desenvolvimento da capacidade de trabalhar em equipe e na solução de problemas.'
+-----------------------
+Nome: Matheus Kazumi Silva Miyashiro
+response:
+sentiment=1 most_relevant_phrase='Aprendi a lidar com falhas e limitações técnicas, buscando soluções criativas com os recursos disponíveis da equipe.'
+-----------------------
+Nome: Guilherme Brugeff Teles 
+response:
+sentiment=1 most_relevant_phrase='Me ajudou a desenvolver minha capacidade de interação continua com as pessoas'
+-----------------------
+Nome: João Valente 
+response:
+sentiment=0 most_relevant_phrase='A participação no AraraBots ainda não teve um impacto significativo na minha vida'
+-----------------------
+Nome: Fernando Silva Gonçalves
+response:
+sentiment=1 most_relevant_phrase='A participação trouxe aprimoramentos e conhecimentos de engenharia e trabalho em equipe que eu não teria tido na graduação apenas'
+-----------------------
+Nome: Raphaella Brandão Jacques
+response:
+sentiment=1 most_relevant_phrase='Foi uma vivência que contribuiu de verdade para o meu crescimento, tanto profissional quanto pessoal'
+-----------------------
+Nome: Allan Menchik 
+response:
+sentiment=-1 most_relevant_phrase='Eu usei do ararabots para alavancar a minha carreira.'
+-----------------------
+Nome: wellington vieira martins de castro
+response:
+sentiment=1 most_relevant_phrase='A Ararabots propiciou que eu saísse da faculdade com experiência e habilidades acima de um engenheiro júnior'
+-----------------------
+Nome: Gabriel lucas da silva 
+response:
+sentiment=1 most_relevant_phrase='Aplicar os conhecimentos na prática é o jeito de aprender de verdade.'
+-----------------------
+Nome: Kenzo Sakiyama
+response:
+sentiment=1 most_relevant_phrase='Todas estas habilidades foram extremamente úteis para me ajudar a chegar onde estou no momento, doutorado em IA'
+-----------------------
+Nome: Arthur Lemos Nogueira Filho
+response:
+sentiment=1 most_relevant_phrase='A participação no AraraBots me permitiu aplicar conhecimentos técnicos adquiridos na graduação e a lidar com diferentes pessoas na equipe, com cada um fazendo sua parte para o progresso da equipe.'
+-----------------------
+Nome: Juan Carvalho
+response:
+sentiment=1 most_relevant_phrase='Trabalhar na AraraBots contribuiu muito para o meu senso de equipe e como ajudar e receber ajuda de outros.'
+-----------------------
+Nome: Yuri Claude
+response:
+sentiment=0 most_relevant_phrase='A participação no AraraBots, e LIA em geral me ajudaram a entender como trabalhar em equipe'
+-----------------------
+Nome: Natália Silva Duarte
+response:
+sentiment=1 most_relevant_phrase='ver os frutos de tanta dedicação e trabalho duro'
+-----------------------
+Nome: Mariane Barros Neiva
+response:
+sentiment=-1 most_relevant_phrase='Eu segui a area por conta do laboratorio'
+-----------------------
+Nome: Amanda Ottoni 
+response:
+sentiment=1 most_relevant_phrase='Impactou muito, foi o que mais me fez aprender na graduação.'
+-----------------------
+Nome: Fabio Huang
+response:
+sentiment=1 most_relevant_phrase='Realizei atividades que fortaleceram minhas habilidades técnicas e humanas, me conectei com diversas pessoas de outras instituições e backgrounds distintos durante as competições, conexões essas que mantenho e julgo como de grande valor.'
+-----------------------
+Nome: Gabriel Bonetti Rafols
+response:
+sentiment=1 most_relevant_phrase='Ajudou no aprimoramento de habilidades uteis no mercado'
+-----------------------
+Nome: Rafael Torres Nantes
+response:
+sentiment=1 most_relevant_phrase='Aprendi participando da equipe!!!'
+-----------------------
+Nome: Helen Yukari Ohara Tochetto
+response:
+sentiment=1 most_relevant_phrase='Isso complementa nossa formação de maneira positiva.'
+-----------------------
+Nome: Lucas Marques Macedo Navarezi
+response:
+sentiment=1 most_relevant_phrase='mostrando que realmente juntos vamos mais longe.'
+-----------------------
+Nome: Marcelo Manoel de Lima Filho
+response:
+sentiment=1 most_relevant_phrase='compartilhar experiências e conhecimentos com outras equipes'
+-----------------------
+Nome: Wanderson Junior de Oliveira Bignardi
+response:
+sentiment=1 most_relevant_phrase='Participar do Ararabots contribuiu significativamente para o aprimoramento das minhas habilidades técnicas em programação e desenvolvimento'
+-----------------------
+Nome: Ana Karolina da Silva Barbosa 
+response:
+sentiment=1 most_relevant_phrase='Com certeza, essa foi a experiência universitária mais rica da minha formação.'
+-----------------------
+Nome: João Vitor de Andrade Fernandes 
+response:
+sentiment=1 most_relevant_phrase='Ademais, o sentimento de estar junto ao pessoal no laboratório era sensacional.'
+-----------------------
+Nome: Mateus Paiva Matiazzi
+response:
+sentiment=-1 most_relevant_phrase=''
+-----------------------
+Nome: Luís Fernando Palhares
+response:
+sentiment=0 most_relevant_phrase='Além disso, ampliou meus ensinamentos técnicos'
+-----------------------
+Nome: Maria Eduarda 
+response:
+sentiment=0 most_relevant_phrase=''
+-----------------------
+Nome: Geffté Caetano
+response:
+sentiment=1 most_relevant_phrase='ser ético e confiável'
+-----------------------
+Nome: Amanda Beatriz Matos Palacio Ribeiro 
+response:
+sentiment=1 most_relevant_phrase='O Ararabots me proporcionou a oportunidade de conhecer pessoas incríveis, construir amizades duradouras e aprender a conviver e colaborar com colegas de diferentes personalidades e experiências.'
+-----------------------
+Nome: Riccieli 
+response:
+sentiment=1 most_relevant_phrase='Pude aplicar conhecimentos teóricos na prática, ter a oportunidade de participar em competições e ter aprendido a trabalhar em equipe sob pressão com uma implacável necessidade de um bom gerenciamento de projetos.'
+-----------------------
+Nome: Camila Yumi  Koike
+response:
+sentiment=-1 most_relevant_phrase='Sou profundamente grata por tudo o que ele nos proporcionou.'
+-----------------------
+Nome: Leonardo Marcon Leal
+response:
+sentiment=0 most_relevant_phrase='Contribuiu para conhecimento técnico'
+-----------------------
+Nome: Eduardo Max
+response:
+sentiment=1 most_relevant_phrase='O projeto/time foi um momento importante na minha vida durante a faculdade.'
+-----------------------

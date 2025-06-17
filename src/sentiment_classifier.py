@@ -15,7 +15,7 @@ class Response(BaseModel):
         description="Variação entre -1, 0, 1 do sentimento do texto."
     )
     most_relevant_phrase: str = Field(
-        description="Frase que mais impactou a classificação do sentimento."
+        description="Frase completa que mais impactou a classificação do sentimento."
     )
 
 
@@ -23,22 +23,20 @@ class Response(BaseModel):
 def config_model():
     prompt = PromptTemplate.from_template(
         """
-Objetivo principal:
-Você é um classificador de sentimentos. 
-Você irá receber um texto e deve classificar se ele é negativo, neutro ou positivo. 
+Você é um classificador de sentimentos.
 
-Entrada esperadas:
-- Texto a ser classificado
+Sua tarefa é:
+1. Analisar o texto fornecido.
+2. Classificar o sentimento geral como:
+   -1 para negativo,
+    0 para neutro,
+    1 para positivo.
+3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
 
-Atributos esperados na saída:
-- sentiment: inteiro que indica a classificação do sentimento, odne -1 é negativo, 0 é neutro e 1 é positivo.
-- most_relevant_phrase: string inteiro da frase que mais impactou na classificação do sentimento.
-
-  
-Formato da saída:
+Retorne os resultados no seguinte formato JSON:
 {{
-  "sentiment": -1|0|1,
-  "most_relevant_phrase": Frase completa que mais impactou a classificação do sentimento.,
+  "sentiment": -1 | 0 | 1,
+  "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }}
 
 Texto:
@@ -46,7 +44,7 @@ Texto:
 """
     )
 
-    llm = ChatOllama(model="llama3.2", format="json", temperature=0.8)
+    llm = ChatOllama(model="llama3.2", format="json", temperature=0.2)
     structured_llm = llm.with_structured_output(Response)
     _chain = prompt | structured_llm
 
@@ -101,11 +99,8 @@ def run(df, path_logs, path_data):
     df_classes = pd.DataFrame(columns=["nome", "sentimento", "frase"])
 
     for i, row in tqdm(df.iterrows(), total=len(df)):
-        name = row.get("name", "")
-        text = row.get("text", "")
-
-        if not isinstance(text, str):
-            text = str(text)
+        name = row.get("nome", "")
+        text = row.get("texto", "")
 
         text_processed = process_text(name, text, path_logs)
 
@@ -126,11 +121,13 @@ def run(df, path_logs, path_data):
 
 if __name__ == "__main__":
     # Espera caminho relativo para pasta data
-    csv_path = os.path.join(os.path.dirname(__file__), "..", "data", sys.argv[1])
+    root_path = os.path.join(os.path.dirname(__file__), "..", "data")
 
-    path_data = os.path.join(os.path.dirname(__file__), "..", "outputs")
+    csv_path = os.path.join(root_path, "datasets", sys.argv[1])
 
-    path_logs = os.path.join(os.path.dirname(__file__), "..", "logs")
+    path_data = os.path.join(root_path, "outputs")
+
+    path_logs = os.path.join(root_path, "logs")
 
     if not os.path.exists(path_data):
         os.makedirs(path_data)

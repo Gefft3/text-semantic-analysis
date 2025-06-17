@@ -1,3 +1,3 @@
-csv_path="sample.csv"
+csv_path="respostas.csv"
 
-python3 sentiment-classifier.py $csv_path
+python3 sentiment_classifier.py $csv_path
