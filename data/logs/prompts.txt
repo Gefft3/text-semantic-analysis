@@ -1,15 +1,15 @@
 Nome: Vinícius Fontes de Andrade
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -17,22 +17,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 O Ararabots me proporcionou experiências e melhorias em diversas áreas importantes para a construção da minha trajetória na graduação, como as experiências em reuniões, pair programmings, tasks, comunicação e principalmente trabalho em grupo.
 
 -----------------------
 Nome: Lucas Santana Escobar 
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -40,22 +40,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Principalmente no desenvolvimento da capacidade de trabalhar em equipe e na solução de problemas. Além disto, formou laços de amizade duradouros, advindos do convívio e troca de experiências entre os membros.
 
 -----------------------
 Nome: Matheus Kazumi Silva Miyashiro
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -63,22 +63,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Do ponto de vista técnico, pude aplicar e aprofundar conhecimentos em eletrônica, programação e inteligência artificial. Aprendi a lidar com falhas e limitações técnicas, buscando soluções criativas com os recursos disponíveis da equipe. Já no aspecto humano, o Arara me proporcionou um grande aprendizado sobre trabalho em equipe, empatia e comunicação clara, habilidades fundamentais para o desenvolvimento pessoal e profissional.
 
 -----------------------
 Nome: Guilherme Brugeff Teles 
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -86,22 +86,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Me ajudou a desenvolver minha capacidade de interação continua com as pessoas e lidar melhor com as minhas emoções, principalmente quando o assunto e metas, prazos e atividades em que contribuo para o coletivo.
 
 -----------------------
 Nome: João Valente 
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -109,22 +109,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 A participação no AraraBots ainda não teve um impacto significativo na minha vida, mas acredito que, com o tempo, poderei contribuir mais com minha equipe, à medida que adquirir mais conhecimento e experiência na área da robótica..
 
 -----------------------
 Nome: Fernando Silva Gonçalves
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -132,22 +132,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 O arara me proporcionou a entrada em uma área que eu já possuia muito interesse e foi o motivo que eu entrei no curso que entrei. A participação trouxe aprimoramentos e conhecimentos de engenharia e trabalho em equipe que eu não teria tido na graduação apenas, sem dúvidas um dos projetos que mudou a minha vida.
 
 -----------------------
 Nome: Raphaella Brandão Jacques
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -155,7 +155,7 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Participar do AraraBots foi uma das experiências mais importantes da minha trajetória na graduação. No lado técnico, me ajudou muito a colocar em prática o que aprendi em sala de aula, além de desenvolver soluções em equipe e aprender a organizar melhor as tarefas. Também tive a chance de conhecer pessoas de outras universidades durante competições, o que trouxe trocas de experiências muito ricas e ampliou minha visão sobre a área. Tudo isso contribuiu bastante para meu crescimento e abriu portas, como a oportunidade de entrar no mestrado.
 
 No lado pessoal, o AraraBots teve um papel muito especial. Me aproximei de colegas da graduação com os quais talvez não tivesse tanto contato se não fosse pelo projeto, e criei vínculos importantes que devo levar pro resto da vida. Participar das atividades e colaborações me ensinou muito sobre trabalho em equipe, divisão de tarefas e responsabilidade. Foi uma vivência que contribuiu de verdade para o meu crescimento, tanto profissional quanto pessoal
@@ -164,15 +164,15 @@ No lado pessoal, o AraraBots teve um papel muito especial. Me aproximei de coleg
 Nome: Allan Menchik 
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -180,7 +180,7 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Eu usei do ararabots para alavancar a minha carreira. Sabia que a experiência que eu teria ali seria difícil de encontrar em outro lugar por tudo ser feito do zero e por eu precisar tomar diversas decisões em um projeto extremamente complexo.
 Além disso desenvolvi habilidades sociais que tenho certeza que teria mais dificuldades em outros projetos mais limitados, principalmente por liderar a equipe por 2 anos. 
 
@@ -188,15 +188,15 @@ Além disso desenvolvi habilidades sociais que tenho certeza que teria mais difi
 Nome: wellington vieira martins de castro
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -204,22 +204,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 A Ararabots propiciou que eu saísse da faculdade com experiencia e habilidades acima de um engenheiro júnior
 
 -----------------------
 Nome: Gabriel lucas da silva 
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -227,7 +227,7 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Aplicar os conhecimentos na prática é o jeito de aprender de verdade.
 
 O trabalho em equipe é uma diferencial que se tendo quando sai da faculdade ajuda muito na vida.
@@ -236,15 +236,15 @@ O trabalho em equipe é uma diferencial que se tendo quando sai da faculdade aju
 Nome: Kenzo Sakiyama
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -252,22 +252,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 A participação no Ararabots serviu como um primeiro contato com o mundo profissional para mim e muitos dos meus colegas de grupo. Além de permitir que nós exercitássemos hard skills obtidas durante a graduação, nós também tivemos a oportunidade de adquirir e praticar soft skills necessárias para comunicação entre membros da equipe e para lidar com ambientes extressantes como antes e durante competições. Além disto, através do projeto, também tive a oportunidade de entender e praticar técnicas de desenvolvimento ágil que são de extrema importância tanto para o ambiente profissional e acadêmico. Todas estas habilidades foram extremamente úteis para me ajudar a chegar onde estou no momento, doutorado em IA, e o ponto de partida foi o Ararabots.
 
 -----------------------
 Nome: Arthur Lemos Nogueira Filho
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -275,22 +275,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 A participação no AraraBots me permitiu aplicar conhecimentos técnicos adquiridos na graduação e a lidar com diferentes pessoas na equipe, com cada um fazendo sua parte para o progresso da equipe.
 
 -----------------------
 Nome: Juan Carvalho
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -298,22 +298,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Trabalhar na AraraBots contribuiu muito para o meu senso de equipe e como ajudar e receber ajuda de outros. Como capitão da equipe, eu desenvolvi um senso de liderança e empatia, que hoje é crucial na minha vida profissional, onde frequentemente preciso gerir outras pessoas. Além disso, a organização da equipe se assemelha muito ao que encontrei nas equipes em que atuei profissionalmente e isso tornou a transição de acadêmico para profissional quase imperceptível. De um ponto de vista técnico, não só o conhecimento que eu adquiri me acompanha até hoje, mas o hábito de aprender, que adquiri conciliando o conhecimento de sala de aula com problemas reais da equipe, se mantém.
 
 -----------------------
 Nome: Yuri Claude
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -321,22 +321,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 A participação no AraraBots, e LIA em geral me ajudaram a entender como trabalhar em equipe
 
 -----------------------
 Nome: Natália Silva Duarte
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -344,22 +344,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Fazer parte do AraraBots foi uma virada de chave na minha vida profissional e pessoal. Acredito que, quando você se entrega completamente a um projeto — que, no meu caso, passou por uma reestruturação completa (incluindo o desenvolvimento de um robô para uma nova categoria, mudança de liderança e cultura de equipe) — é muito gratificante e genuinamente enriquecedor ver os frutos de tanta dedicação e trabalho duro. Acredito que nenhum outro projeto dentro da UFMS proporciona essa sensação como o AraraBots. Agora, mesmo no fim da graduação, é incrível acompanhar a chegada de novos membros e ter uma sala para chamar de nossa. Saio com o coração quentinho.
 
 -----------------------
 Nome: Mariane Barros Neiva
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -367,22 +367,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Para mim era o alivio social durante a graduação e me deu base para o que eu faço atualmente: ciencia de dados. Eu segui a area por conta do laboratorio
 
 -----------------------
 Nome: Amanda Ottoni 
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -390,22 +390,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Impactou muito, foi o que mais me fez aprender na graduação.
 
 -----------------------
 Nome: Fabio Huang
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -413,22 +413,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 O Ararabots foi minha primeira experiência e uma das mais relevantes da a minha carreira durante a graduação. Aprendi a projetar e resolver problemas de forma independente, e à trabalhar em equipe e mais tarde liderar ela. Realizei atividades que fortaleceram minhas habilidades técnicas e humanas, me conectei com diversas pessoas de outras instituições e backgrounds distintos durante as competições, conexões essas que mantenho e julgo como de grande valor.
 
 -----------------------
 Nome: Gabriel Bonetti Rafols
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -436,22 +436,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Ajudou no aprimoramento de habilidades uteis no mercado 
 
 -----------------------
 Nome: Rafael Torres Nantes
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -459,22 +459,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 O Arabots permitiu a participar em um ambiente colaborativo, em que alunos tentam ajudar alunos. A relação de independencia e protatividade foram aspectos importantes que aprendi participando da equipe!!!
 
 -----------------------
 Nome: Helen Yukari Ohara Tochetto
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -482,22 +482,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Além dos projetos envolvendo o desenvolvimento de robôs para competições, acredito que as soft skills desempenham um papel fundamental, tanto na troca de conhecimento entre os membros quanto na questão da proatividade e das habilidades que buscamos desenvolver para contribuir com o time. Isso complementa nossa formação de maneira positiva.
 
 -----------------------
 Nome: Lucas Marques Macedo Navarezi
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -505,22 +505,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Participar da equipe da Ararabots foi um dos pontos altos da minha graduação pois pude botar em prática conceitos de programação, engenharia de projetos e principalmente a prática de se construir algo em conjunto com outros indivíduos, mostrando que realmente juntos vamos mais longe.
 
 -----------------------
 Nome: Marcelo Manoel de Lima Filho
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -528,22 +528,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Primeiro contato com uma equipe que competia, na minha perspectiva colaborou para o desenvolvimento de software voltado para robótica, revelando seus desafios e áreas de interesse, todo o processo de planejamento, desenvolvimento e execução me ensinou toda a arquitetura necessária para construir um projeto de robótica, além disso a competição me permitiu compartilhar experiências e conhecimentos com outras equipes.  
 
 -----------------------
 Nome: Wanderson Junior de Oliveira Bignardi
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -551,22 +551,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Participar do Ararabots contribuiu significativamente para o aprimoramento das minhas habilidades técnicas em programação e desenvolvimento, além de me trazer mais confiança e desenvolver minhas competências sociais como trabalho em equipe, liderança e comunicação
 
 -----------------------
 Nome: Ana Karolina da Silva Barbosa 
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -574,22 +574,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 O Ararabots me deu a oportunidade de atuar nas áreas em que eu queria seguir carreira: eletrônica e mecânica. Durante o curso, esses temas não são aprofundados e tampouco contam com um grande repertório de aulas práticas. O Ararabots nos permite fazer parte de um projeto real, colocar a mão na massa, planejar atividades, fazer escolhas, desenvolver tecnologias e errar muito até aprender. Além disso, o trabalho constante em equipe e a necessidade de tomar a frente em diversas atividades desenvolveram soft skills como trabalho em equipe, liderança, comunicação e respeito. Com certeza, essa foi a experiência universitária mais rica da minha formação.
 
 -----------------------
 Nome: João Vitor de Andrade Fernandes 
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -597,22 +597,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 A equipe impactou a minha formação técnica e humana ao me proporcionar a oportunidade de visualizar e compreender o desenvolvimento de um projeto de robótica. Receber orientações de colegas experientes, visualizar projetos sendo desenvolvidos na prática e buscar soluções para problemas incomuns são pontos que contribuíram para tal impacto. Ademais, o sentimento de estar junto ao pessoal no laboratório era sensacional. Indo além, posso dizer que aprendi muito com o ararabots mesmo após sair da equipe, pois muitas vezes refletia sobre os empecilhos que encontrávamos e percebia que poderia ter buscado abordagens diferentes para contribuir com a equipe diante de tais problemas técnicos. Hoje, consigo ter uma melhor compreensão dos meios que poderiam me tornar mais eficiente e prestativo ao trabalhar em projetos tecnicamente complexos.
 
 -----------------------
 Nome: Mateus Paiva Matiazzi
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -620,22 +620,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 .
 
 -----------------------
 Nome: Luís Fernando Palhares
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -643,22 +643,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Ajudou nas relações sociais, apresentando sobre o mundo do trabalho e facilitando a comunicação com as pessoas que possuem interesses semelhantes aos meus. Além disso, ampliou meus ensinamentos técnicos, e assim, apresentaram nortes para aprofundar meus conhecimentos teóricos.
 
 -----------------------
 Nome: Maria Eduarda 
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -666,22 +666,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Experiência pessoal e profissional.
 
 -----------------------
 Nome: Geffté Caetano
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -689,22 +689,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 No quesito técnico, tive um forte impulso na parte de programação, seja por conta do paradigma orientado a objetos, clean code e clean architecture, resolução de problemas de como eficiente e prático e até mesmo gestão de times. No quesito humano, em um ambiente diverso como o ararabots o valor de respeitar o próximo é muito forte, ser ético e confiável. Mas acho interessante que uma relação humada que foi muito desenvolvida, talvez de uma visão técnica, é a comunicação, não de modo raso, mas saber comunicar um problema encaminhando para uma solução, ou lidar com algum problema interno de forma pragmática. 
 
 -----------------------
 Nome: Amanda Beatriz Matos Palacio Ribeiro 
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -712,7 +712,7 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Da parte técnica, o grupo me incentivou a ir além do que era ensinado na faculdade, a explorar novas possibilidades de aplicação prática para a teoria aprendida em sala de aula. Ser parte da construçãode um projeto real foi essencial para desenvolver minhas habilidades de pesquisa, desenvolvimento e depuração, consciente do tempo e recursos limitados. Essa experiência, mais próxima da realidade que qualquer outra que tive na faculdade, expandiram meus horizontes, me preparando para lidar com problemas complexos de maneira criativa e prática.
 No aspecto humano, a experiência foi igualmente transformadora. O Ararabots me proporcionou a oportunidade de conhecer pessoas incríveis, construir amizades duradouras e aprender a conviver e colaborar com colegas de diferentes personalidades e experiências. As mudanças na minha comunicação interpessoal foram muitas e significativas, ajudando com a minha timidez e a vergonha de falar em público. No geral, pude observar especialmente melhorias na clareza com que me expresso.
 
@@ -720,15 +720,15 @@ No aspecto humano, a experiência foi igualmente transformadora. O Ararabots me 
 Nome: Riccieli 
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -736,22 +736,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Pude aplicar conhecimentos teóricos na prática, ter a oportunidade de participar em competições e ter aprendido a trabalhar em equipe sob pressão com uma implacável necessidade de um bom gerenciamento de projetos. 
 
 -----------------------
 Nome: Camila Yumi  Koike
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -759,7 +759,7 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 
 A – Amizade
 Porque tudo começou (e continua) com pessoas conectadas de verdade, construindo laços que vão além da universidade.
@@ -804,15 +804,15 @@ E agora, com o avanço das Inteligências Artificiais, que dominam como ninguém
 Nome: Leonardo Marcon Leal
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -820,22 +820,22 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 Contribuiu para conhecimento técnico em áreas como programação, lógica computacional, mecânica, gestão de projetos e inteligencia artificial
 
 -----------------------
 Nome: Eduardo Max
 prompt:
 
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {
@@ -843,7 +843,7 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }
 
-Texto:
+Texto a ser analisado: 
 O projeto/time foi um momento importante na minha vida durante a faculdade. Me deu motivação durante a graduação, pela primeira vez tive a sensação de estar participando de uma competição, pertencer a um grupo, participação em uma competição nacional, fiz amigos que vou levar p resto da vida, momentos que ficam marcados tbm. Tecnicamente a robótica foi uma porta para conhecer a área de IA e querer seguir nessa área. Aprendi que consigo resolver qualquer problema, com paciência, pesquisa e dedicação.
 
 -----------------------

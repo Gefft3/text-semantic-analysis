@@ -4,15 +4,15 @@ sentiment=1 most_relevant_phrase='O Ararabots me proporcionou experiências e me
 -----------------------
 Nome: Lucas Santana Escobar 
 response:
-sentiment=0 most_relevant_phrase='Principalmente no desenvolvimento da capacidade de trabalhar em equipe e na solução de problemas.'
+sentiment=1 most_relevant_phrase='Além disto, formou laços de amizade duradouros, advindos do convívio e troca de experiências entre os membros.'
 -----------------------
 Nome: Matheus Kazumi Silva Miyashiro
 response:
-sentiment=1 most_relevant_phrase='Aprendi a lidar com falhas e limitações técnicas, buscando soluções criativas com os recursos disponíveis da equipe.'
+sentiment=1 most_relevant_phrase='Do ponto de vista técnico, pude aplicar e aprofundar conhecimentos em eletrônica, programação e inteligência artificial.'
 -----------------------
 Nome: Guilherme Brugeff Teles 
 response:
-sentiment=1 most_relevant_phrase='Me ajudou a desenvolver minha capacidade de interação continua com as pessoas'
+sentiment=1 most_relevant_phrase='Me ajudou a desenvolver minha capacidade de interação continua com as pessoas e lidar melhor com as minhas emoções, principalmente quando o assunto e metas, prazos e atividades em que contribuo para o coletivo.'
 -----------------------
 Nome: João Valente 
 response:
@@ -20,15 +20,15 @@ sentiment=0 most_relevant_phrase='A participação no AraraBots ainda não teve 
 -----------------------
 Nome: Fernando Silva Gonçalves
 response:
-sentiment=1 most_relevant_phrase='A participação trouxe aprimoramentos e conhecimentos de engenharia e trabalho em equipe que eu não teria tido na graduação apenas'
+sentiment=1 most_relevant_phrase='A participação trouxe aprimoramentos e conhecimentos de engenharia e trabalho em equipe que eu não teria tido na graduação apenas, sem dúvidas um dos projetos que mudou a minha vida.'
 -----------------------
 Nome: Raphaella Brandão Jacques
 response:
-sentiment=1 most_relevant_phrase='Foi uma vivência que contribuiu de verdade para o meu crescimento, tanto profissional quanto pessoal'
+sentiment=1 most_relevant_phrase='Participar do AraraBots foi uma das experiências mais importantes da minha trajetória na graduação.'
 -----------------------
 Nome: Allan Menchik 
 response:
-sentiment=-1 most_relevant_phrase='Eu usei do ararabots para alavancar a minha carreira.'
+sentiment=1 most_relevant_phrase='Sabia que a experiência que eu teria ali seria difícil de encontrar em outro lugar por tudo ser feito do zero e por eu precisar tomar diversas decisões em um projeto extremamente complexo.'
 -----------------------
 Nome: wellington vieira martins de castro
 response:
@@ -36,11 +36,11 @@ sentiment=1 most_relevant_phrase='A Ararabots propiciou que eu saísse da faculd
 -----------------------
 Nome: Gabriel lucas da silva 
 response:
-sentiment=1 most_relevant_phrase='Aplicar os conhecimentos na prática é o jeito de aprender de verdade.'
+sentiment=1 most_relevant_phrase='O trabalho em equipe é uma diferencial que se tendo quando sai da faculdade ajuda muito na vida.'
 -----------------------
 Nome: Kenzo Sakiyama
 response:
-sentiment=1 most_relevant_phrase='Todas estas habilidades foram extremamente úteis para me ajudar a chegar onde estou no momento, doutorado em IA'
+sentiment=1 most_relevant_phrase='A participação no Ararabots serviu como um primeiro contato com o mundo profissional para mim e muitos dos meus colegas de grupo.'
 -----------------------
 Nome: Arthur Lemos Nogueira Filho
 response:
@@ -52,15 +52,15 @@ sentiment=1 most_relevant_phrase='Trabalhar na AraraBots contribuiu muito para o
 -----------------------
 Nome: Yuri Claude
 response:
-sentiment=0 most_relevant_phrase='A participação no AraraBots, e LIA em geral me ajudaram a entender como trabalhar em equipe'
+sentiment=1 most_relevant_phrase='A participação no AraraBots, e LIA em geral me ajudaram a entender como trabalhar em equipe'
 -----------------------
 Nome: Natália Silva Duarte
 response:
-sentiment=1 most_relevant_phrase='ver os frutos de tanta dedicação e trabalho duro'
+sentiment=1 most_relevant_phrase='Fazer parte do AraraBots foi uma virada de chave na minha vida profissional e pessoal.'
 -----------------------
 Nome: Mariane Barros Neiva
 response:
-sentiment=-1 most_relevant_phrase='Eu segui a area por conta do laboratorio'
+sentiment=1 most_relevant_phrase='Para mim era o alivio social durante a graduação e me deu base para o que eu faço atualmente: ciencia de dados.'
 -----------------------
 Nome: Amanda Ottoni 
 response:
@@ -68,7 +68,7 @@ sentiment=1 most_relevant_phrase='Impactou muito, foi o que mais me fez aprender
 -----------------------
 Nome: Fabio Huang
 response:
-sentiment=1 most_relevant_phrase='Realizei atividades que fortaleceram minhas habilidades técnicas e humanas, me conectei com diversas pessoas de outras instituições e backgrounds distintos durante as competições, conexões essas que mantenho e julgo como de grande valor.'
+sentiment=1 most_relevant_phrase='Aprendi a projetar e resolver problemas de forma independente, e à trabalhar em equipe e mais tarde liderar ela.'
 -----------------------
 Nome: Gabriel Bonetti Rafols
 response:
@@ -76,7 +76,7 @@ sentiment=1 most_relevant_phrase='Ajudou no aprimoramento de habilidades uteis n
 -----------------------
 Nome: Rafael Torres Nantes
 response:
-sentiment=1 most_relevant_phrase='Aprendi participando da equipe!!!'
+sentiment=1 most_relevant_phrase='A relação de independência e proatividade foram aspectos importantes que aprendi participando da equipe!!!'
 -----------------------
 Nome: Helen Yukari Ohara Tochetto
 response:
@@ -84,15 +84,15 @@ sentiment=1 most_relevant_phrase='Isso complementa nossa formação de maneira p
 -----------------------
 Nome: Lucas Marques Macedo Navarezi
 response:
-sentiment=1 most_relevant_phrase='mostrando que realmente juntos vamos mais longe.'
+sentiment=1 most_relevant_phrase='Participar da equipe da Ararabots foi um dos pontos altos da minha graduação'
 -----------------------
 Nome: Marcelo Manoel de Lima Filho
 response:
-sentiment=1 most_relevant_phrase='compartilhar experiências e conhecimentos com outras equipes'
+sentiment=1 most_relevant_phrase='Primeiro contato com uma equipe que competia, na minha perspectiva colaborou para o desenvolvimento de software voltado para robótica, revelando seus desafios e áreas de interesse'
 -----------------------
 Nome: Wanderson Junior de Oliveira Bignardi
 response:
-sentiment=1 most_relevant_phrase='Participar do Ararabots contribuiu significativamente para o aprimoramento das minhas habilidades técnicas em programação e desenvolvimento'
+sentiment=1 most_relevant_phrase='Participar do Ararabots contribuiu significativamente para o aprimoramento das minhas habilidades técnicas em programação e desenvolvimento, além de me trazer mais confiança e desenvolver minhas competências sociais como trabalho em equipe, liderança e comunicação'
 -----------------------
 Nome: Ana Karolina da Silva Barbosa 
 response:
@@ -104,23 +104,23 @@ sentiment=1 most_relevant_phrase='Ademais, o sentimento de estar junto ao pessoa
 -----------------------
 Nome: Mateus Paiva Matiazzi
 response:
-sentiment=-1 most_relevant_phrase=''
+sentiment=0 most_relevant_phrase='Não há texto fornecido para análise.'
 -----------------------
 Nome: Luís Fernando Palhares
 response:
-sentiment=0 most_relevant_phrase='Além disso, ampliou meus ensinamentos técnicos'
+sentiment=1 most_relevant_phrase='Ajudou nas relações sociais, apresentando sobre o mundo do trabalho e facilitando a comunicação com as pessoas que possuem interesses semelhantes aos meus.'
 -----------------------
 Nome: Maria Eduarda 
 response:
-sentiment=0 most_relevant_phrase=''
+sentiment=0 most_relevant_phrase='Experiência pessoal e profissional.'
 -----------------------
 Nome: Geffté Caetano
 response:
-sentiment=1 most_relevant_phrase='ser ético e confiável'
+sentiment=1 most_relevant_phrase='No quesito técnico, tive um forte impulso na parte de programação, seja por conta do paradigma orientado a objetos, clean code e clean architecture, resolução de problemas de como eficiente e prático e até mesmo gestão de times.'
 -----------------------
 Nome: Amanda Beatriz Matos Palacio Ribeiro 
 response:
-sentiment=1 most_relevant_phrase='O Ararabots me proporcionou a oportunidade de conhecer pessoas incríveis, construir amizades duradouras e aprender a conviver e colaborar com colegas de diferentes personalidades e experiências.'
+sentiment=1 most_relevant_phrase='Da parte técnica, o grupo me incentivou a ir além do que era ensinado na faculdade, a explorar novas possibilidades de aplicação prática para a teoria aprendida em sala de aula.'
 -----------------------
 Nome: Riccieli 
 response:
@@ -128,13 +128,13 @@ sentiment=1 most_relevant_phrase='Pude aplicar conhecimentos teóricos na práti
 -----------------------
 Nome: Camila Yumi  Koike
 response:
-sentiment=-1 most_relevant_phrase='Sou profundamente grata por tudo o que ele nos proporcionou.'
+sentiment=1 most_relevant_phrase='Fazer parte do Ararabots, transformou a minha vida universitária de apenas aprender fórmulas, códigos ou teorias para também compartilhar dificuldades, celebrar conquistas e criar memórias coletivas.'
 -----------------------
 Nome: Leonardo Marcon Leal
 response:
-sentiment=0 most_relevant_phrase='Contribuiu para conhecimento técnico'
+sentiment=1 most_relevant_phrase='Contribuiu para conhecimento técnico em áreas como programação, lógica computacional, mecânica, gestão de projetos e inteligência artificial'
 -----------------------
 Nome: Eduardo Max
 response:
-sentiment=1 most_relevant_phrase='O projeto/time foi um momento importante na minha vida durante a faculdade.'
+sentiment=1 most_relevant_phrase='Me deu motivação durante a graduação, pela primeira vez tive a sensação de estar participando de uma competição, pertencer a um grupo, participação em uma competição nacional, fiz amigos que vou levar p resto da vida, momentos que ficam marcados tbm.'
 -----------------------

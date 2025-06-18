@@ -23,15 +23,15 @@ class Response(BaseModel):
 def config_model():
     prompt = PromptTemplate.from_template(
         """
-Você é um classificador de sentimentos.
+Você é um classificador de sentimentos e extrator de frases. 
 
 Sua tarefa é:
-1. Analisar o texto fornecido.
-2. Classificar o sentimento geral como:
+1. Classificar o sentimento geral como:
    -1 para negativo,
     0 para neutro,
     1 para positivo.
-3. Extrair a frase completa do texto que mais influenciou essa classificação. A frase deve ser copiada exatamente como está no texto original.
+2. Extrair a frase completa do texto que mais influenciou essa classificação. 
+A frase deve ser copiada exatamente como está no texto original.
 
 Retorne os resultados no seguinte formato JSON:
 {{
@@ -39,26 +39,16 @@ Retorne os resultados no seguinte formato JSON:
   "most_relevant_phrase": "Frase completa que mais impactou a classificação do sentimento."
 }}
 
-Texto:
+Texto a ser analisado: 
 {text}
 """
     )
 
-    llm = ChatOllama(model="llama3.2", format="json", temperature=0.2)
+    llm = ChatOllama(model="phi4", format="json", temperature=0.1)
     structured_llm = llm.with_structured_output(Response)
     _chain = prompt | structured_llm
 
     return prompt, _chain
-
-
-# Chunkinização usando tokenização aproximada
-def chunk_text(text, max_tokens=2000):
-    if not isinstance(text, str):
-        text = str(text)
-    enc = tiktoken.get_encoding("cl100k_base")
-    tokens = enc.encode(text)
-    chunks = [tokens[i : i + max_tokens] for i in range(0, len(tokens), max_tokens)]
-    return [enc.decode(chunk) for chunk in chunks]
 
 
 # Carregamento de dados
