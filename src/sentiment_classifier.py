@@ -2,7 +2,6 @@ import pandas as pd
 import os
 import sys
 import gc
-import tiktoken
 from tqdm import tqdm
 from langchain_ollama import ChatOllama
 from langchain_core.prompts import PromptTemplate
