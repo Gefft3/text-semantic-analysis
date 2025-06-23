@@ -1,0 +1,128 @@
+Nome: Vinícius Fontes de Andrade
+response:
+classes_found=[] classes_list=['liderança', 'pro atividade', 'inovação', 'colaboração', 'resiliência']
+-----------------------
+Nome: Lucas Santana Escobar 
+response:
+classes_found=[] classes_list=[]
+-----------------------
+Nome: Matheus Kazumi Silva Miyashiro
+response:
+classes_found=['eletrônica', 'programação', 'inteligência artificial'] classes_list=['eletrônica', 'programação', 'inteligência artificial']
+-----------------------
+Nome: Guilherme Brugeff Teles 
+response:
+classes_found=[] classes_list=['eletrônica', 'programação', 'inteligência artificial']
+-----------------------
+Nome: Fernando Silva Gonçalves
+response:
+classes_found=['engenharia', 'trabalho em equipe'] classes_list=['engenharia', 'trabalho em equipe']
+-----------------------
+Nome: Raphaella Brandão Jacques
+response:
+classes_found=['trabalho em equipe'] classes_list=['engenharia', 'trabalho em equipe']
+-----------------------
+Nome: Allan Menchik 
+response:
+classes_found=[] classes_list=['trabalho em equipe']
+-----------------------
+Nome: wellington vieira martins de castro
+response:
+classes_found=['engenheiro júnior'] classes_list=['engenheiro júnior']
+-----------------------
+Nome: Gabriel lucas da silva 
+response:
+classes_found=[] classes_list=['engenheiro júnior']
+-----------------------
+Nome: Kenzo Sakiyama
+response:
+classes_found=[] classes_list=[]
+-----------------------
+Nome: Arthur Lemos Nogueira Filho
+response:
+classes_found=[] classes_list=[]
+-----------------------
+Nome: Juan Carvalho
+response:
+classes_found=['AraraBots'] classes_list=['AraraBots']
+-----------------------
+Nome: Yuri Claude
+response:
+classes_found=['AraraBots'] classes_list=['AraraBots']
+-----------------------
+Nome: Natália Silva Duarte
+response:
+classes_found=['AraraBots'] classes_list=['AraraBots']
+-----------------------
+Nome: Mariane Barros Neiva
+response:
+classes_found=[] classes_list=['AraraBots']
+-----------------------
+Nome: Amanda Ottoni 
+response:
+classes_found=[] classes_list=[]
+-----------------------
+Nome: Fabio Huang
+response:
+classes_found=['projetar', 'resolver problemas', 'trabalhar em equipe', 'liderar'] classes_list=['projetar', 'resolver problemas', 'trabalhar em equipe', 'liderar']
+-----------------------
+Nome: Gabriel Bonetti Rafols
+response:
+classes_found=[] classes_list=['projetar', 'resolver problemas', 'trabalhar em equipe', 'liderar']
+-----------------------
+Nome: Rafael Torres Nantes
+response:
+classes_found=[] classes_list=[]
+-----------------------
+Nome: Helen Yukari Ohara Tochetto
+response:
+classes_found=[] classes_list=[]
+-----------------------
+Nome: Lucas Marques Macedo Navarezi
+response:
+classes_found=[] classes_list=[]
+-----------------------
+Nome: Marcelo Manoel de Lima Filho
+response:
+classes_found=['robótica'] classes_list=['robótica']
+-----------------------
+Nome: Wanderson Junior de Oliveira Bignardi
+response:
+classes_found=[] classes_list=['robótica']
+-----------------------
+Nome: Ana Karolina da Silva Barbosa 
+response:
+classes_found=[] classes_list=[]
+-----------------------
+Nome: João Vitor de Andrade Fernandes 
+response:
+classes_found=[] classes_list=[]
+-----------------------
+Nome: Luís Fernando Palhares
+response:
+classes_found=[] classes_list=[]
+-----------------------
+Nome: Geffté Caetano
+response:
+classes_found=['paradigma orientado a objetos', 'clean code', 'clean architecture'] classes_list=['paradigma orientado a objetos', 'clean code', 'clean architecture']
+-----------------------
+Nome: Amanda Beatriz Matos Palacio Ribeiro 
+response:
+classes_found=[] classes_list=['paradigma orientado a objetos', 'clean code', 'clean architecture']
+-----------------------
+Nome: Riccieli 
+response:
+classes_found=['conhecimentos teóricos', 'competições', 'trabalho em equipe', 'pressão', 'gerenciamento de projetos'] classes_list=['conhecimentos teóricos', 'competições', 'trabalho em equipe', 'pressão', 'gerenciamento de projetos']
+-----------------------
+Nome: Camila Yumi  Koike
+response:
+classes_found=['conhecimentos teóricos', 'trabalho em equipe'] classes_list=['conhecimentos teóricos', 'competições', 'trabalho em equipe', 'pressão', 'gerenciamento de projetos']
+-----------------------
+Nome: Leonardo Marcon Leal
+response:
+classes_found=['conhecimentos teóricos'] classes_list=['conhecimentos teóricos', 'trabalho em equipe']
+-----------------------
+Nome: Eduardo Max
+response:
+classes_found=[] classes_list=['conhecimentos teóricos']
+-----------------------

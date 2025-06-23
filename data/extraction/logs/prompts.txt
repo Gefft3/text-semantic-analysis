@@ -1,0 +1,704 @@
+Nome: Vinícius Fontes de Andrade
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: ['liderança', 'pro atividade', 'inovação', 'colaboração', 'resiliência']
+
+Texto a ser analisado:
+O Ararabots me proporcionou experiências e melhorias em diversas áreas importantes para a construção da minha trajetória na graduação
+
+-----------------------
+Nome: Lucas Santana Escobar 
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+Além disto, formou laços de amizade duradouros, advindos do convívio e troca de experiências entre os membros.
+
+-----------------------
+Nome: Matheus Kazumi Silva Miyashiro
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+Do ponto de vista técnico, pude aplicar e aprofundar conhecimentos em eletrônica, programação e inteligência artificial.
+
+-----------------------
+Nome: Guilherme Brugeff Teles 
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: ['eletrônica', 'programação', 'inteligência artificial']
+
+Texto a ser analisado:
+Me ajudou a desenvolver minha capacidade de interação continua com as pessoas e lidar melhor com as minhas emoções, principalmente quando o assunto e metas, prazos e atividades em que contribuo para o coletivo.
+
+-----------------------
+Nome: Fernando Silva Gonçalves
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+A participação trouxe aprimoramentos e conhecimentos de engenharia e trabalho em equipe que eu não teria tido na graduação apenas, sem dúvidas um dos projetos que mudou a minha vida.
+
+-----------------------
+Nome: Raphaella Brandão Jacques
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: ['engenharia', 'trabalho em equipe']
+
+Texto a ser analisado:
+Participar do AraraBots foi uma das experiências mais importantes da minha trajetória na graduação.
+
+-----------------------
+Nome: Allan Menchik 
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: ['trabalho em equipe']
+
+Texto a ser analisado:
+Sabia que a experiência que eu teria ali seria difícil de encontrar em outro lugar por tudo ser feito do zero e por eu precisar tomar diversas decisões em um projeto extremamente complexo.
+
+-----------------------
+Nome: wellington vieira martins de castro
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+A Ararabots propiciou que eu saísse da faculdade com experiência e habilidades acima de um engenheiro júnior
+
+-----------------------
+Nome: Gabriel lucas da silva 
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: ['engenheiro júnior']
+
+Texto a ser analisado:
+O trabalho em equipe é uma diferencial que se tendo quando sai da faculdade ajuda muito na vida.
+
+-----------------------
+Nome: Kenzo Sakiyama
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+A participação no Ararabots serviu como um primeiro contato com o mundo profissional para mim e muitos dos meus colegas de grupo.
+
+-----------------------
+Nome: Arthur Lemos Nogueira Filho
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+A participação no AraraBots me permitiu aplicar conhecimentos técnicos adquiridos na graduação e a lidar com diferentes pessoas na equipe, com cada um fazendo sua parte para o progresso da equipe.
+
+-----------------------
+Nome: Juan Carvalho
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+Trabalhar na AraraBots contribuiu muito para o meu senso de equipe e como ajudar e receber ajuda de outros.
+
+-----------------------
+Nome: Yuri Claude
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: ['AraraBots']
+
+Texto a ser analisado:
+A participação no AraraBots, e LIA em geral me ajudaram a entender como trabalhar em equipe
+
+-----------------------
+Nome: Natália Silva Duarte
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: ['AraraBots']
+
+Texto a ser analisado:
+Fazer parte do AraraBots foi uma virada de chave na minha vida profissional e pessoal.
+
+-----------------------
+Nome: Mariane Barros Neiva
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: ['AraraBots']
+
+Texto a ser analisado:
+Para mim era o alivio social durante a graduação e me deu base para o que eu faço atualmente: ciencia de dados.
+
+-----------------------
+Nome: Amanda Ottoni 
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+Impactou muito, foi o que mais me fez aprender na graduação.
+
+-----------------------
+Nome: Fabio Huang
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+Aprendi a projetar e resolver problemas de forma independente, e à trabalhar em equipe e mais tarde liderar ela.
+
+-----------------------
+Nome: Gabriel Bonetti Rafols
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: ['projetar', 'resolver problemas', 'trabalhar em equipe', 'liderar']
+
+Texto a ser analisado:
+Ajudou no aprimoramento de habilidades uteis no mercado
+
+-----------------------
+Nome: Rafael Torres Nantes
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+A relação de independência e proatividade foram aspectos importantes que aprendi participando da equipe!!!
+
+-----------------------
+Nome: Helen Yukari Ohara Tochetto
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+Isso complementa nossa formação de maneira positiva.
+
+-----------------------
+Nome: Lucas Marques Macedo Navarezi
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+Participar da equipe da Ararabots foi um dos pontos altos da minha graduação
+
+-----------------------
+Nome: Marcelo Manoel de Lima Filho
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+Primeiro contato com uma equipe que competia, na minha perspectiva colaborou para o desenvolvimento de software voltado para robótica, revelando seus desafios e áreas de interesse
+
+-----------------------
+Nome: Wanderson Junior de Oliveira Bignardi
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: ['robótica']
+
+Texto a ser analisado:
+Participar do Ararabots contribuiu significativamente para o aprimoramento das minhas habilidades técnicas em programação e desenvolvimento, além de me trazer mais confiança e desenvolver minhas competências sociais como trabalho em equipe, liderança e comunicação
+
+-----------------------
+Nome: Ana Karolina da Silva Barbosa 
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+Com certeza, essa foi a experiência universitária mais rica da minha formação.
+
+-----------------------
+Nome: João Vitor de Andrade Fernandes 
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+Ademais, o sentimento de estar junto ao pessoal no laboratório era sensacional.
+
+-----------------------
+Nome: Luís Fernando Palhares
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+Ajudou nas relações sociais, apresentando sobre o mundo do trabalho e facilitando a comunicação com as pessoas que possuem interesses semelhantes aos meus.
+
+-----------------------
+Nome: Geffté Caetano
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+No quesito técnico, tive um forte impulso na parte de programação, seja por conta do paradigma orientado a objetos, clean code e clean architecture, resolução de problemas de como eficiente e prático e até mesmo gestão de times.
+
+-----------------------
+Nome: Amanda Beatriz Matos Palacio Ribeiro 
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: ['paradigma orientado a objetos', 'clean code', 'clean architecture']
+
+Texto a ser analisado:
+Da parte técnica, o grupo me incentivou a ir além do que era ensinado na faculdade, a explorar novas possibilidades de aplicação prática para a teoria aprendida em sala de aula.
+
+-----------------------
+Nome: Riccieli 
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: []
+
+Texto a ser analisado:
+Pude aplicar conhecimentos teóricos na prática, ter a oportunidade de participar em competições e ter aprendido a trabalhar em equipe sob pressão com uma implacável necessidade de um bom gerenciamento de projetos.
+
+-----------------------
+Nome: Camila Yumi  Koike
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: ['conhecimentos teóricos', 'competições', 'trabalho em equipe', 'pressão', 'gerenciamento de projetos']
+
+Texto a ser analisado:
+Fazer parte do Ararabots, transformou a minha vida universitária de apenas aprender fórmulas, códigos ou teorias para também compartilhar dificuldades, celebrar conquistas e criar memórias coletivas.
+
+-----------------------
+Nome: Leonardo Marcon Leal
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: ['conhecimentos teóricos', 'trabalho em equipe']
+
+Texto a ser analisado:
+Contribuiu para conhecimento técnico em áreas como programação, lógica computacional, mecânica, gestão de projetos e inteligência artificial
+
+-----------------------
+Nome: Eduardo Max
+prompt:
+
+Você é um extrator de classes. 
+Dada uma lista de classes e um texto, retorne um lista das classes que aparecem no texto.
+Caso encontre uma categoria nova, adicione-a à lista de classes e retorne-a.
+
+classes_found: lista de classes encontradas no texto.
+classes_list: lista de classes atualizada após a análise do texto.
+
+Retorne no formato JSON:
+{
+    "classes_found": ["classe1", "classe2", ...],
+    "classes_list": ["classe1", "classe2", ...]
+}
+
+Lista de classes: ['conhecimentos teóricos']
+
+Texto a ser analisado:
+Me deu motivação durante a graduação, pela primeira vez tive a sensação de estar participando de uma competição, pertencer a um grupo, participação em uma competição nacional, fiz amigos que vou levar p resto da vida, momentos que ficam marcados tbm.
+
+-----------------------
